@@ -20,13 +20,9 @@ System.Text.RegularExpressions – for HTML content parsing
 System.Web – for URL encoding of search queries
 
 Integration & APIs:
-
 Google Custom Search API – for querying job postings programmatically
-
 Optional scraping fallback via Google Search HTML parsing
 
 Design Concepts:
-
 Modular architecture (JobSearchChecker class) for querying via API or scraping
-
 Extensible job board list for easy addition of new platforms
