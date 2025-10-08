@@ -5,7 +5,7 @@ Filtering results based on your target roles and keywords
 Providing instant feedback via API or scraping methods
 This helps job seekers maximize opportunities while minimizing manual effort.
 
-🛠 Tech Stack & Architecture
+Tech Stack & Architecture
 Language: C#
 Framework: .NET 6 / Console Application
 
