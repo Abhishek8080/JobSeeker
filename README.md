@@ -3,15 +3,9 @@ JobSeeker - Real-World Problem It Solves Searching for relevant job postings man
 Tech Stack & Architecture Language: C# Framework: .NET 6 / Console Application
 
 Libraries / Packages:
-
 Newtonsoft.Json – for JSON parsing
-
 System.Net.Http – for HTTP requests to APIs and web scraping
-
 System.Text.RegularExpressions – for HTML content parsing
-
 System.Web – for URL encoding of search queries
-
 Integration & APIs: Google Custom Search API – for querying job postings programmatically Optional scraping fallback via Google Search HTML parsing
-
 Design Concepts: Modular architecture (JobSearchChecker class) for querying via API or scraping Extensible job board list for easy addition of new platforms
